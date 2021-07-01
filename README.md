@@ -9,4 +9,8 @@ Potentiometer is a 16mm 10K linear.
 
 More to come later.
 
-the CAD file is too be opened in FreeCAD
+the CAD file is to be opened in FreeCAD
+the arduino code is in the other file.
+
+this is a work in progress and no effort has been made to clean things up.
+
