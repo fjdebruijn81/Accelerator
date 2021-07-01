@@ -8,3 +8,5 @@ https://www.bunnings.com.au/century-spring-corp-9-5-x-44-5mm-compression-spring-
 Potentiometer is a 16mm 10K linear.
 
 More to come later.
+
+the CAD file is too be opened in FreeCAD
